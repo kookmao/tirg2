@@ -1,3 +1,4 @@
+//abc 123
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;

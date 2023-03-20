@@ -1,6 +1,3 @@
-//abc 123
-//testing 123 from github website
-//asdfd
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;

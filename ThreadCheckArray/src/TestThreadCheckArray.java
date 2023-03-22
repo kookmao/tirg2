@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//hhhhhhhhhhhhhhh
 //abc 123
 //asddff
 public class TestThreadCheckArray {
